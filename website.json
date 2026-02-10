@@ -1,0 +1,26 @@
+{
+	"title": "Reduced Enderman Griefing",
+	"description_short": "Prevent Enderman from picking up world surface blocks",
+	"description": "Prevent Enderman from pulling apart worlds in active areas",
+	"youtube": null,
+	"icon": "mcpeachpies_reduced_enderman_griefing/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "Enderman are unable to pickup grass and dirt blocks, clay, netherrack, crimson and warped nylium, sand, gravel and mushrooms"
+		},
+		{
+			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.20"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_reduced_enderman_griefing.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/reduced-enderman-griefing"
+		}
+	]
+}
